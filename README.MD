@@ -1,3 +1,3 @@
 ./cert.sh #to generate selfigned ssl certs (or you can edit 'default.conf' with your own certs)
-\n
+<br>
 docker-compose up -d #start stack
